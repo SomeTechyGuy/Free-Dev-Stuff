@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="
+https://cdn.jsdelivr.net/npm/@fontsource/red-hat-display@5.0.20/400.min.css
+" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free online tech resources</title>
+    <style>
+      body {
+        background-color: #f0f0f0;
+        font-family: "Red Hat Display";
+      }
+
+      .category {
+        margin: 10px;
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="categories">
+      <div class="category" onclick="scrollToCategory('DNS')">DNS</div>
+      <div class="category" onclick="scrollToCategory('WebHosting')">Web Hosting</div>
+      <div class="category" onclick="scrollToCategory('Domains')">Domains</div>
+      <div class="category" onclick="scrollToCategory('CDNs')">CDNs</div>
+    </div>
+    <h4>This Website lists free resources that are free forever with no payment method needed.</h4>
+    <h2 id="DNS">DNS</h2>
+    <a href="https://cloudflare.com">Cloudflare DNS hosting</a> (Free domains not allowed) <ul></ul>
+    <a href="https://one.one.one.one">Cloudflare 1.1.1.1 DNS</a> (Makes your internet faster) <ul></ul>
+    <a href="https://desec.io">deSec</a> (Good DNS hosting for free) <ul></ul>
+    <a href="https://dns.he.net">Hurricane Electric DNS</a> (Normal DNS hosting with every DNS record you can think of) <ul></ul>
+    <a href="https://www.namecheap.com/domains/freedns/">Namecheap Free DNS</a> (Simple interface) <ul></ul>
+    <a href="https://nextdns.io">NextDNS</a> (Free Forever plan with 300k queries/m and blocklists) <h2 id="WebHosting">Web Hosting</h2>
+    <a href="https://pages.cloudflare.com">Cloudflare Pages</a> (Best overall with a free pages.dev domain but has a 500 builds per month limit) <ul></ul>
+    <a href="https://pages.github.com">Github Pages</a> (Free username.github.io domain with a 100GB/m bandwidth limit and 10 builds per hour) <ul></ul>
+    <a href="https://vercel.com">Vercel</a> (Free vercel.app domain with 32 builds per hour and a 100GB/m bandwidth limit) <ul></ul>
+    <a href="https://pages.gitlab.io">Gitlab Pages</a> (Unlimited everything but most complicated and no CDN) <ul></ul>
+    <a href="https://netlify.com">Netlify</a> (Free netlify.app domain with 100GB of bandwidth/m and 300 build minutes/m) <ul></ul>
+    <a href="https://render.com">Render</a> (100GB/m bandwidth with 500 build minutes/m) <h2 id="Domains">Domains</h2>
+    <a href="https://nic.us.kg">us.kg</a> (Free uk.kg domains with support for Cloudflare DNS hosting) <ul></ul>
+    <a href="https://nic.eu.org">eu.org</a> (Free eu.org domain with Cloudflare DNS hosting support but takes a long time to get a eu.org domain approved) <ul></ul>
+    <a href="https://freedns.afraid.org">FreeDNS</a> (Limited DNS records except for iz.rs and no Cloudflare support) <h2 id="CDNs">CDNs</h2>
+    <a href="https://jsdelivr.com">jsDelivr</a> (A very good CDN for devs with 4 CDN providers, 3 DNS providers, everything on GitHub, every WordPress plugin, everything on npm, and more) <ul></ul>
+    <a href="https://statically.io/">Statically</a> (Has everything on GitHub, GitLab, and Bitbucket with 3 CDNs on their network) <script>
+      function scrollToCategory(category) {
+        const element = document.getElementById(category);
+        element.scrollIntoView({
+          behavior: "smooth"
+        });
+      }
+    </script>
+  </body>
+</html>
