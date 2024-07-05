@@ -7,12 +7,25 @@ https://cdn.jsdelivr.net/npm/@fontsource/red-hat-display@5.0.20/400.min.css
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Find free online tech resources including DNS, web hosting, domains, CDNs, email services, and speed tests.">
+    <meta name="description" content="Free tech resources for anyone.">
     <title>Free online tech resources</title>
     <style>
       body {
-        background-color: dark gray;
+        background-color: black;
+        color: aqua;
         font-family: "Red Hat Display";
+      }
+
+      a:link {
+        color: #00e6e0;
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:visited {
+        color: #00e6a0;
+        background-color: transparent;
+        text-decoration: none;
       }
     </style>
   </head>
@@ -38,16 +51,17 @@ https://cdn.jsdelivr.net/npm/@fontsource/red-hat-display@5.0.20/400.min.css
       <a href="https://freestuff.cstuff.cz/#EmailServices">Email Services</a>
     </h3>
     <h3>
-      <a href="https://freestuff.cstuff.cz/#SpeedTests">Speed Tests</a>
-    </h3>
-    <h3>
-      <a href="https://freestuff.cstuff.cz/#VPNs">VPNs</a>
+      <a href="https://freestuff.cstuff.cz/#SpeedTests">SpeedTests</a>
     </h3>
     <h3>
       <a href="https://freestuff.cstuff.cz/#SSL">SSL</a>
     </h3>
     <h3>
-      <a href="https://freestuff.cstuff.cz/#VPNs"></a>
+      <a href="https://freestuff.cstuff.cz/#VPNs">VPNs </>
+    </h3>
+    <h3>
+      <a href="https://freestuff.cstuff.cz/#Git">Git</a>
+    </h3>
     </h3>
     <h2 id="DNS">DNS</h2>
     <a href="https://cloudflare.com">Cloudflare DNS hosting</a> (Free domains not allowed.) <ul></ul>
@@ -105,12 +119,16 @@ https://cdn.jsdelivr.net/npm/@fontsource/red-hat-display@5.0.20/400.min.css
     <h2 id="SSL">SSL</h2>
     <a href="https://letsencrypt.org">LetsEncrypt</a> (Best free SSL overall.) <ul></ul>
     <a href="https://www.sslforfree.com">SSL for free</a> (Not recomended unless you can't use certbot at all.) <ul></ul>
-    <a href="https://zerossl.com">ZeroSSL</a> (Same company as SSL for free) <ul></ul>
-    <a href="https://dash.cloudflare.com">Clouflare</a> (Free SSL certificates when you get Cloudfare DNS) <ul></ul>
+    <a href="https://zerossl.com">ZeroSSL</a> (Same company as SSL for free.) <ul></ul>
+    <a href="https://dash.cloudflare.com">Clouflare</a> (Free SSL certificates when you get Cloudfare DNS.) <ul></ul>
     <h2 id="VPNs">VPNs</h2>
-    <a href="https://account.protonvpn.com/pricing">Proton VPN</a> (Overall best for privacy and customization) <ul></ul>
-    <a href="https://one.one.one.one">Cloudflare WARP</a> (Best for speed and simplicity and has 1.1.1.1 DNS that is encrypted with it) <ul></ul>
-    <a href="https://torproject.org">TOR Browser</a> (Very slow but the most secure with a 3 layer encryption but has lots of blocking too) <script>
+    <a href="https://account.protonvpn.com/pricing">Proton VPN</a> (Overall best for privacy and customization.) <ul></ul>
+    <a href="https://one.one.one.one">Cloudflare WARP</a> (Best for speed and simplicity and has 1.1.1.1 DNS that is encrypted with it.) <ul></ul>
+    <a href="https://torproject.org">TOR Browser</a> (Very slow but the most secure with a 3 layer encryption but has lots of blocking too.) <h2 id="Git">Git</h2>
+    <a href="https://github.com">GitHub</a> (Unlimited storage.) <ul></ul>
+    <a href="https://gitlab.com">GitLab</a> (10 GiB repo storage limit.) <ul></ul>
+    <a href="https://bitbucket.org">BitBucket</a> (4GB repo storage limit.) <ul></ul>
+    <a href="https://codeberg.org">CodeBerg</a> (You must request additional resources if you use over 750MiB for your repo) <script>
       function scrollToCategory(category) {
         const element = document.getElementById(category);
         element.scrollIntoView({
