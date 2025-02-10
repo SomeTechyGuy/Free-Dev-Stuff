@@ -78,8 +78,8 @@
 - [DebugBear Website Speed Test](https://shrinkme.in/28OP2Wq) (Only US East can be chosen for free.)
 - [GTmetrix](https://shrinkme.in/cimkYEcm) (You must log in to choose your location.)
 - [WebPageTest](https://shrinkme.in/yetyPNP) (Customization available for speed and location.)
-- [Dotcom tools Website Speed Test](https://shrinkme.in/SMAcBy5n) (Different screen resolutions, browsers, locations, and throttling to choose from.)
-- [Uptime.com Pagespeed](https://shrinkme.in/VeOnAC) (Different devices, throttling, and locations to choose from.)
+- [Dotcom tools Website Speed Test](https://shrinkme.in/SMAcBy5n) (Different screen resolutions, browsers, locations and throttling to choose from.)
+- [Uptime.com Pagespeed](https://shrinkme.in/VeOnAC) (Different devices, throttling and locations to choose from.)
 
 ## SSL
 
@@ -96,6 +96,6 @@
 
 ## Git
 
-- [GitHub](https://shrinkme.in/E1Zhs8) (Best overall with unlimited storage for free but owned by Microsoft which is known for telemetry, tracking, spyware, e-waste, and Recall WHICH IS A UNSECURED NONSTOP SCREENSHOTING STORAGE WASTING PEICE OF CRAP.)
+- [GitHub](https://shrinkme.in/E1Zhs8) (Best overall with unlimited storage for free but owned by Microsoft which is known for telemetry, tracking, spyware, e-waste and Recall WHICH IS A UNSECURED NONSTOP SCREENSHOTING STORAGE WASTING PEICE OF CRAP.)
 - [GitLab](https://shrinkme.in/9l6iH) (Best for security but more expensive and less storage unless you self host it.)
-- [Codeberg](https://shrinkme.in/l81hO) (Bad web hosting unless it's only for Germany, low repo storage at 750MiB, and you have to request for more resources.)
+- [Codeberg](https://shrinkme.in/l81hO) (No CDN with servers in Germany, low repo storage at 750MiB and you have to request for more resources.)
