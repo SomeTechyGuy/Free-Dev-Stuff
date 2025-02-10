@@ -2,8 +2,6 @@
 
 ### This repo lists free developer resources that are free forever with no payment method needed.
 
-### WARNING: This website uses a link shortener that monetizes me and no it's not Linkvertise
-
 ### To contact me, my email is [c@cstuff.cz](mailto:c@cstuff.cz).
 
 ### The website for Free Dev Stuff is [here](https://freedevstuff.cstuff.cz)
@@ -24,10 +22,10 @@
 
 - [Cloudflare DNS hosting](https://shrinkme.in/s5ct) (Any domain or us.kg, eu.org, js.org, and us.to domains allowed.)
 - [Cloudflare 1.1.1.1 DNS](https://shrinkme.in/HhxqdM) (Makes your internet faster and not tracked by your ISP DNS.)
-- [deSec](https://shrinkme.in/8BO8n) (Good DNS hosting for free.)
-- [Hurricane Electric DNS](https://shrinkme.in/qhys) (Normal DNS hosting with every DNS record even including ALIAS records.)
-- [Namecheap Free DNS](https://shrinkme.in/NVFa6jmj) (Simple interface and just normal DNS hosting)
-- [NextDNS](https://shrinkme.in/cJSKvD) (Free Forever plan with 300k queries/m and blocklists.)
+- [deSec](https://link-hub.net/1291423/hfvhgbdfvvchn-evkjvgfdhum) (Good DNS hosting for free.)
+- [Hurricane Electric DNS](https://direct-link.net/1291423/hfvhgbdfvvchn-) (Normal DNS hosting with every DNS record even including ALIAS records.)
+- [Namecheap Free DNS](https://link-center.net/1291423/huecxcvndtyufgj) (Simple interface and just normal DNS hosting)
+- [NextDNS](https://link-center.net/1291423/fvtyu-h7r-y79-rg-y89rg) (Free Forever plan with 300k queries/m and blocklists.)
 
 ## Web Hosting
 
