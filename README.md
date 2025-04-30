@@ -4,7 +4,7 @@
 
 ### To contact me, my email is [cjhar@tuta.io](mailto:cjhar@tuta.io).
 
-### The website for Free Dev Stuff is [here](https://freedevstuff.cstuff.cz)
+### The website for Free Dev Stuff is [here](https://freestuff.cjtek.click)
 
 # Categories
 
